@@ -90,44 +90,46 @@ sns.heatmap(data.corr(),annot=True)
 ```
 # OUTPUT :
 # DATASET :
+![image](https://github.com/Yogabharathi3/ODD2023-Datascience-Ex-04/assets/118899387/3df1b52a-f769-4bc4-9339-7414cf14ca33)
 
 
 # HEAD() :
+![image](https://github.com/Yogabharathi3/ODD2023-Datascience-Ex-04/assets/118899387/a30ea002-845c-44c9-96c5-2f25e3af6e7d)
 
 
 # INFO() :
+![image](https://github.com/Yogabharathi3/ODD2023-Datascience-Ex-04/assets/118899387/6d0552eb-f704-47c5-b2de-365fb0ad697e)
 
 
 # DESCRIBE() :
+![image](https://github.com/Yogabharathi3/ODD2023-Datascience-Ex-04/assets/118899387/729fdf77-3069-4c09-b235-00eb56cd8270)
 
 
 # DATATYPE() :
 
+![image](https://github.com/Yogabharathi3/ODD2023-Datascience-Ex-04/assets/118899387/92950b3a-4ba5-41a1-91b1-a2555f578046)
 
 # ISNULL() :
+![image](https://github.com/Yogabharathi3/ODD2023-Datascience-Ex-04/assets/118899387/81f662ef-3baf-49af-b7d2-0fc0249f9be1)
 
 
 # Postal code has outliers :
+![image](https://github.com/Yogabharathi3/ODD2023-Datascience-Ex-04/assets/118899387/a3d5b9ba-be66-486a-9731-11f26c956324)
 
 
 # After removing outliers from Postal Code :
 # MULTIVARIATE ANALYSIS :
 # SCATTER PLOT :
-
-
+![image](https://github.com/Yogabharathi3/ODD2023-Datascience-Ex-04/assets/118899387/bcac0060-dd8e-4b45-8623-654c64549859)
 # BARPLOT :
-
-
-
-
+![image](https://github.com/Yogabharathi3/ODD2023-Datascience-Ex-04/assets/118899387/7a31e239-0f72-40fd-9f0e-7e288c42c68c)
+![image](https://github.com/Yogabharathi3/ODD2023-Datascience-Ex-04/assets/118899387/a8d936b7-2139-4f63-a0b2-78e300cc2cd0)
 # SEGMENTATION :
-
-
+![image](https://github.com/Yogabharathi3/ODD2023-Datascience-Ex-04/assets/118899387/38e5e199-3bfb-4ed9-80e8-f181f6e3e3d0)
 # CORRESSION :
-
-
+![image](https://github.com/Yogabharathi3/ODD2023-Datascience-Ex-04/assets/118899387/4f9b96a8-42cb-4b07-a059-cca7a81a9be8)
 # HEATMAP() :
-
+![image](https://github.com/Yogabharathi3/ODD2023-Datascience-Ex-04/assets/118899387/6c391471-e813-405e-b707-d922d55857fd)
 
 # RESULT :
 Hence The Performance of the Multivariate EDA on the given data set is verified.
